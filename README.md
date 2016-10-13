@@ -1,2 +1,2 @@
-# sample is cool
-Almost familar
+# second
+Altering first one
