@@ -1,2 +1,2 @@
-# sample
-To get familiar to the site
+# sample is cool
+Almost familar
